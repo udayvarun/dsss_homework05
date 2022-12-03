@@ -5,7 +5,7 @@ setup(
     name = "snowflake",
     version = "0.1",
     author = "udayvarun",
-    author_email = "kothapalliudayvarun@gmail.com"
+    author_email = "kothapalliudayvarun@gmail.com",
     packages = find_packages(),
     install_requires = ["numpy", "turtles"],
 )
